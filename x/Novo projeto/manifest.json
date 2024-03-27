@@ -1,0 +1,72 @@
+{
+    "background_color": "#ffffff",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "FACSENAC-PE",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "FACSENAC-PE",
+    "start_url": "/",
+    "theme_color": "#ffffff",
+    "icons": [
+      {
+        "src": "Icones/29.png",
+        "type": "image/png",
+        "sizes": "29x29"
+      },
+      {
+        "src": "Icones/40.png",
+        "type": "image/png",
+        "sizes": "40x40"
+      },
+      {
+        "src": "Icones/57.png",
+        "type": "image/png",
+        "sizes": "57x57"
+      },
+      {
+        "src": "Icones/58.png",
+        "type": "image/png",
+        "sizes": "58x58"
+      },
+      {
+        "src": "Icones/60.png",
+        "type": "image/png",
+        "sizes": "60x60"
+      },
+      {
+        "src": "Icones/80.png",
+        "type": "image/png",
+        "sizes": "80x80"
+      },
+      {
+        "src": "Icones/87.png",
+        "type": "image/png",
+        "sizes": "87x87"
+      },
+      {
+        "src": "Icones/114.png",
+        "type": "image/png",
+        "sizes": "114x114"
+      }, 
+      {
+        "src": "Icones/120.png",
+        "type": "image/png",
+        "sizes": "120x120"
+      },
+       {
+        "src": "Icones/180.png",
+        "type": "image/png",
+        "sizes": "180x180"
+      },
+       {
+        "src": "Icones/1024.png",
+        "type": "image/png",
+        "sizes": "1024x1024"
+      }
+
+
+    ],
+    "description": "FACSENAC-PE",
+    "lang": "pt"
+  }
